@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+/* 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
+
+/*//////////////////////////////////////////////////
+ Component Class 
+///////////////////////////////////////////////////*/
+
+.btn-outline-change:hover {
+  background: #1ccbba !important;
+}
+.btn-outline-change {
+  border: 2px solid;
+  border-color: #1ccbba !important;
+}
+.text-change {
+  color: #1ccbba !important;
+}
+
+/*//////////////////////////////////////////////////
+Core Footer 
+///////////////////////////////////////////////////*/
+.home-nav {
+  text-decoration: none;
+  color: black;
+}
+.login-nav {
+  text-decoration: none;
+  color: black;
+}
+.register-nav {
+  text-decoration: none;
+  color: black;
+}
+
+.home-nav:hover {
+  color: #1ccbba;
+  text-decoration: none;
+}
+.login-nav:hover {
+  color: #1ccbba;
+  text-decoration: none;
+}
+.register-nav:hover {
+  color: #1ccbba;
+  text-decoration: none;
+}
+
+.scrollable-form {
+  height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1ccbba;
+  border-radius: 10px;
+}
+
+/*//////////////////////////////////////////////////
+ Home 
+///////////////////////////////////////////////////*/
+
+.intro {
+  height: 90vh;
+}
+
+/*//////////////////////////////////////////////////
+ login
+///////////////////////////////////////////////////*/
+
+.login {
+  height: 90vh;
+}
+
+/*//////////////////////////////////////////////////
+ Register
+///////////////////////////////////////////////////*/
+
+.choice {
+  height: 90vh;
+}
+
+/*//////////////////////////////////////////////////
+ Register / Patient
+///////////////////////////////////////////////////*/
+
+.intro {
+  height: 90vh;
+}

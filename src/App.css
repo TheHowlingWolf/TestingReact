@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+}
+.fullHeight {
+  height: 100vh !important;
+  width: 1500px !important;
+  margin-left: -250px !important;
+  padding: 0px;
+}
