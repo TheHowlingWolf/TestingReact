@@ -9,12 +9,12 @@
     "@testing-library/user-event": "^7.2.1",
     "electron": "^9.0.0",
     "electron-packager": "^14.2.1",
-    "electron-rebuild": "^1.11.0",
+    "electron-rebuild": "^3.2.9",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-player": "^2.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-toastify": "^6.0.5"
   },
   "scripts": {
